@@ -89,16 +89,3 @@ The **low recall (0.23)** suggests the model is **highly conservative**—only p
 This behavior is often **preferred in quantitative trading**, as it helps **avoid false positives**.
 
 ---
-
-## 🚀 How to Run
-
-### Environment
-
-Ensure you are using:
-
-- **Python 3.11+**
-- **TensorFlow 2.10+**
-
----
-
-### Directory Structure
